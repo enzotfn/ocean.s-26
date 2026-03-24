@@ -1,18 +1,21 @@
 # Jeu-vidéo - Lancement
 
-Rappel : Pour voir la partie développement et modification du jeu vidéo, allez dans le dossier `GDevelop`. Les étapes suivantes sont à réaliser une fois le jeu exporté pour navigateur web.
+Rappel : Pour voir la partie développement et modification du jeu vidéo, allez dans le dossier `GDevelop`. Les étapes suivantes sont à réaliser une fois le jeu exporté pour navigateur web pour pouvoir le lancer.
 
 ## Prérequis
 
 Navigateur internet : 
-* Google Chrome
+
+* [Google Chrome](https://www.google.com/chrome/)
 * Navigateur Chromium (Edge, Opera, Vivaldi...)
 * Non testé sur Firefox mais devrait être fonctionnel
 
 IDE :
-* Visual Studio Code
+
+* [Visual Studio Code](https://code.visualstudio.com/download)
 
 Extension pour Visual Studio Code (voir ci-dessous) :
+
 * Live Server
 
 ## Installation de l'extension
