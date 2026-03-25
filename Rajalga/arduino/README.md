@@ -4,13 +4,13 @@
 
 Ce projet permet de contrôler un jeu PC à l'aide d'un **joystick arcade**, de **boutons poussoirs**, de **LEDs NeoPixel** et de **servomoteurs**, le tout piloté par une carte **Arduino Uno**. Un script Python écoute les données série envoyées par l'Arduino et les convertit en appuis clavier.
 
-![Montage physique du contrôleur](image-1.png)
+![Montage physique du contrôleur](../images/image-1.png)
 
 ## Schéma de câblage
 
 Le schéma ci-dessous montre le branchement des composants sur l'Arduino Uno. Vous pouvez aussi le consulter en simulation sur Wokwi : https://wokwi.com/projects/459407329683459073
 
-![Schéma de câblage Wokwi](image-2.png)
+![Schéma de câblage Wokwi](../images/image-2.png)
 
 ### Connexions des pins
 
@@ -39,7 +39,7 @@ Le schéma ci-dessous montre le branchement des composants sur l'Arduino Uno. Vo
 3. Recherchez **"Adafruit NeoPixel"**
 4. Cliquez sur **Install** pour installer la bibliothèque (version 1.16.4 ou plus récente)
 
-![Installation de la bibliothèque Adafruit NeoPixel](image.png)
+![Installation de la bibliothèque Adafruit NeoPixel](../images/image.png)
 
 > **Note :** La bibliothèque **Servo** est incluse par défaut dans l'IDE Arduino, pas besoin de l'installer.
 
