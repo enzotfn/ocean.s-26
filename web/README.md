@@ -1,6 +1,6 @@
 # Jeu-vidéo - Lancement
 
-Rappel : Pour voir la partie développement et modification du jeu vidéo, allez dans le dossier `GDevelop`. Les étapes suivantes sont à réaliser une fois le jeu exporté pour navigateur web pour pouvoir le lancer.
+Rappel : Pour voir la partie développement et modification du jeu vidéo, allez dans le dossier `GDevelop`. Les étapes suivantes sont à réaliser une fois le jeu exporté pour navigateur web pour pouvoir le lancer (si vous l'avez modifié) ou directement depuis ce dossier.
 
 ## Prérequis
 
@@ -40,7 +40,7 @@ L'extension **Live Server** est maintenant installée, vous pouvez passer au lan
 ![](../images/vsc_rightclick.png)
 6. Selectionnez la première ligne du menu **Ouvrir avec Live Server**. Cela devrait lancer votre navigateur par défaut directement sur une nouvelle page avec le jeu fonctionnel. Si ce n'est pas le cas, allez dans votre navigateur (voir navigateurs conseillés) et tapez dans la barre de recherche `http://127.0.0.1:5500/index.html`.
 
-Le jeu à l'écran devrait être fonctionnel, et si tout a été fait correctement pour les branchements, les boutons et le joystick devraient faire effet.
+Le jeu à l'écran devrait être fonctionnel, et si tout a été fait correctement pour les branchements, les boutons et le joystick devraient faire effet. Pour un meilleur rendu, mettez votre navigateur en plein écran (touche `F11` ou `FN + F11` sur votre clavier sur Windows).
 
 Pour arrêter le jeu, des fermetures de la page du jeu dans votre navigateur et de VSC devraient faire l'affaire.
 
