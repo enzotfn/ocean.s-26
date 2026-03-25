@@ -1,4 +1,6 @@
-# ocean.s-26
+# ocean.s-26 - Rajalga
+
+Code source du projet Ocean.s-26 Rajalga.
 
 | Etudiants | Mail |
 |-----------|------|
@@ -6,9 +8,7 @@
 | YASMINE Achraf | achraf.yasmine@etu.univ-nantes.fr |
 | MERRAKCHI Omar | omar.merrakchi@etu.univ-nantes.fr |
 
-Code source du projet Ocean.s-26 Rajalga.
-
-Vous trouverez :
+Vous trouverez dans ce dépôt :
 
 - Dans le répertoire `arduino` les fichiers et les instructions pour utiliser les boutons et le joystick.
 - Dans le répertoire `gdevelop` les fichiers et les instructions pour modifier et exporter le jeu-vidéo (en cas de modifications).
